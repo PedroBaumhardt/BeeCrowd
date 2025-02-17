@@ -1,5 +1,7 @@
 <?php
 
+//Animais
+
 $aguia = 'aguia';
 $pomba = 'pomba';
 $homem = 'homem';

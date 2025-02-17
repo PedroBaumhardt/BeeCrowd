@@ -1,5 +1,7 @@
 <?php
 
+//Intervalo 2
+
 $range = readline();
 $in = 0;
 $out = 0;
