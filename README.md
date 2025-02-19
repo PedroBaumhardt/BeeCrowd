@@ -1,1 +1,1 @@
-This repository contains the Beecrowd activities i did with php.
+This repository contains Beecrowd activities i did with php.
