@@ -1,4 +1,5 @@
 <?php
+    //Corvo de tres olhos
 
 
     function checkTrue(bool $bool,int $val){
